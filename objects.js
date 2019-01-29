@@ -1,4 +1,4 @@
-const playlist = {"Psquare": "Do me"}
+const playlist = {Psquare: "Do me"}
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist = { artistName : songTitle }
